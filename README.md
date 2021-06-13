@@ -23,6 +23,7 @@ This project ended up being a roller coaster for me. I both learned and struggle
 ### Tech Stack
 - React
 - CSS
+- localStorage
 - [The Movie DB](https://developers.themoviedb.org/3/getting-started/introduction)
 - [The One API](https://the-one-api.dev/)
 - [The Context API](https://reactjs.org/docs/context.html#when-to-use-context)
