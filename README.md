@@ -18,7 +18,7 @@ I am a person who has always had a never ending watchlist for movies in the note
 This project ended up being a roller coaster for me. I both learned and struggled a lot.
 - I learned more about the fundamentals of React. 
 - I got to practice using APIs which I hadn't done in a while. 
-- I got introduced to using the Context API. This turned out to be my biggest struggle and learning, and I would like to use it in a project again to learn more. 
+- I got introduced to using the Context API. This turned out to be both my biggest struggle and learning, and I would like to use it in another project soon to learn more. 
 
 ### Tech Stack
 - React
